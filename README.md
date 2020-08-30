@@ -1,5 +1,5 @@
 # time-series_forecast_brazilian_cities
-This is script is a pipeline to create a model that predicts the temperature of each month in Goiânia/GO (Brazil).
+This script is a pipeline to create a model that predicts the temperature of each month in Goiânia/GO (Brazil).
 
 The data was downloaded from a Kaggle dataset in:
 * https://www.kaggle.com/volpatto/temperature-timeseries-for-some-brazilian-cities
